@@ -1,0 +1,147 @@
+Welcome to the Shellshock wiki!
+
+1) http://www.ehackingnews.com/2014/09/shellshock-bash-bug.html
+
+2) http://www.freebuf.com/vuls/44994.html 
+
+3) http://www.freebuf.com/news/44768.html 
+
+4) http://www.freebuf.com/news/45436.html 
+
+5) http://blog.csdn.net/u011721501/article/details/39558303 
+
+6) http://www.srxh1314.com/bash-cgi-bin.html 
+
+7) http://www.linuxidc.com/Linux/2014-09/107250.htm
+ 
+8) http://www.freebuf.com/tools/45311.html 
+
+9) http://www.timlaytoncybersecurity.com/2014/09/30/shellshock-bash-code-injection-vulnerability-overview-info/
+
+10) http://blog.sucuri.net/2014/09/bash-vulnerability-shell-shock-thousands-of-cpanel-sites-are-high-risk.html
+
+11) http://blog.erratasec.com/2014/09/the-shockingly-bad-code-of-bash.html#.VEW-R_mUeE0 
+
+12) http://blog.cloudflare.com/inside-shellshock/ 
+
+13) http://www.zenghui123.com/2014-10/linux-bash-vulnerability-ShellShock/ 
+
+14) http://it.slashdot.org/story/14/09/29/024239/bash-to-require-further-patching-as-more-shellshock-holes-found
+
+15) http://www.itnews.com.au/News/396256,further-flaws-render-shellshock-patch-ineffective.aspx 
+
+16) http://www.antiy.com/response/CVE-2014-6271.html
+
+17) http://www.antiy.com/response/The_Association_Threat_Evolution_of_Bash_and_the_Current_Status_of_Malware_in_UNIX-like_Systems.html  
+
+18) http://blog.knownsec.com/2014/10/shellshock_response_profile_v4/#more-1559 
+
+19) http://blog.csdn.net/delphiwcdj/article/details/18048757 
+
+20) http://drops.wooyun.org/papers/3064
+
+21) http://fish.ijinshan.com/cgibincheck/check
+
+22) https://access.redhat.com/articles/1200223 
+
+23) http://www.antiy.com/response/CVE-2014-6271.html 
+
+24) http://lcamtuf.blogspot.fr/2014/09/quick-notes-about-bash-bug-its-impact.html
+
+25) http://www.troyhunt.com/2014/09/everything-you-need-to-know-about.html 
+
+26) http://mashable.com/2014/09/26/what-is-shellshock/ 
+
+27) http://www.businessinsider.com/bash-shell-bug-explained-2014-9 
+
+28) http://blog.erratasec.com/2014/09/bash-shellshock-scan-of-internet.html#.VD5bk2SUeE0 
+
+29) http://blog.erratasec.com/2014/09/bash-shellshock-bug-is-wormable.html#.VD5bymSUeE1 
+
+30) http://resources.infosecinstitute.com/bash-bug-cve-2014-6271-critical-vulnerability-scaring-internet/
+ 
+31) http://unix.stackexchange.com/questions/157329/what-does-env-x-command-bash-do-and-why-is-it-insecure 
+
+32) http://askubuntu.com/questions/529511/explanation-of-the-command-to-check-shellshock 
+
+33) http://digg.com/video/the-shellshock-bug-explained-in-about-four-minutes 
+
+34) http://www.symantec.com/connect/blogs/shellshock-all-you-need-know-about-bash-bug-vulnerability 
+
+35) http://brandonpotter.wordpress.com/2014/09/30/some-stats-from-shellshock-test-tool-analysis/ 
+
+36) http://coolshell.cn/articles/11973.html 
+
+37) http://www.infoq.com/cn/news/2014/10/shellshock 
+
+38) http://www.infoq.com/news/2014/09/shellshock 
+
+39) http://www.freebuf.com/articles/web/45520.html 
+
+40) http://blog.sucuri.net/2014/09/bash-shellshocker-attacks-increase-in-the-wild-day-1.html 
+
+41) http://mobile.itnews.com.au/News/396197，first-shellshock-botnet-attacks-akamai-us-dod-networks.aspx 
+
+42) http://securityaffairs.co/wordpress/29070/malware/mayhem-shellshock-attacks-worldwide.html 
+
+43) http://www.carmelowalsh.com/2014/09/wopbot-botnet/ 
+
+44) http://blog.malwaremustdie.org/2014/10/mmd-0029-2015-warning-of-mayhem.html 
+
+45) http://www.incapsula.com/blog/shellshock-bash-vulnerability-aftermath.html 
+
+46) https://www.digitalocean.com/community/tutorials/how-to-protect-your-server-against-the-shellshock-bash-vulnerability 
+
+47) https://github.com/gry/shellshock-scanner
+
+48)	http://www.tripwire.com/state-of-security/vulnerability-management/how-to-detect-the-shellshock-bash-bug-on-your-internal-network/
+
+49) https://community.qualys.com/blogs/securitylabs/2014/09/25/shellshock-is-your-webserver-under-attack
+
+50)	https://community.qualys.com/blogs/qualys-tech/2014/10/02/using-qualys-was-scan-to-detect-shellshock-vulnerability
+
+51) http://samiux.blogspot.com/2014/09/exploit-shellshock-proof-of-concept.html
+
+52) http://oleaass.com/shellshock-proof-of-concept-reverse-shell/
+
+53) http://milankragujevic.com/projects/shellshock/
+
+54) http://milankragujevic.com/post/64
+
+55) http://breizh-entropy.org/~nameless/random/posts/shellshock_shits_got_real/ 
+
+56)	http://www.tripwire.com/state-of-security/vulnerability-management/how-to-detect-the-shellshock-bash-bug-on-your-internal-network/ 
+
+57) https://github.com/gry/shellshock-scanner 
+
+58) http://blog.crowdstrike.com/crowdstrike-shellshock-scanner/ 
+
+59) http://businessinsights.bitdefender.com/shellshock-bashbug 
+
+60)	http://www.csoonline.com/article/2689216/vulnerabilities/apple-publishes-patch-for-shellshock-vulnerability.html
+
+61) http://alblue.bandlem.com/2014/09/bash-remote-vulnerability.html
+
+62) https://shellshocker.net/ 
+
+63) https://github.com/mubix/shellshocker-pocs
+
+64) http://oleaass.com/shellshock-proof-of-concept-reverse-shell/
+
+65) http://www.freebuf.com/articles/system/45390.html 
+
+66) http://blog.knownsec.com/2014/10/shellshock_response_profile_v4/#more-1559 
+
+67)	http://it.deepinmind.com/%E5%85%B6%E5%AE%83/2014/09/26/everything-you-need-to-know-about-shellshock.html 
+
+68) http://www.securitysift.com/the-search-for-shellshock/
+
+69) http://blog.cloudflare.com/inside-shellshock/ 
+
+70) http://blog.regehr.org/archives/1187 
+
+71) https://github.com/mubix/shellshocker-pocs 
+
+72) http://pastebin.com/mG1grQwK 
+
+73) http://www.cyactive.com/shellshock-blasts-supermassive-black-hole-heart-cyber-space/ 
