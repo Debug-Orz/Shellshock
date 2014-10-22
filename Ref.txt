@@ -94,7 +94,7 @@ Welcome to the Shellshock wiki!
 
 47) https://github.com/gry/shellshock-scanner
 
-48)	http://www.tripwire.com/state-of-security/vulnerability-management/how-to-detect-the-shellshock-bash-bug-on-your-internal-network/
+48）http://www.tripwire.com/state-of-security/vulnerability-management/how-to-detect-the-shellshock-bash-bug-on-your-internal-network/
 
 49) https://community.qualys.com/blogs/securitylabs/2014/09/25/shellshock-is-your-webserver-under-attack
 
