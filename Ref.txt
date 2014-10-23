@@ -98,7 +98,7 @@ Welcome to the Shellshock wiki!
 
 49) https://community.qualys.com/blogs/securitylabs/2014/09/25/shellshock-is-your-webserver-under-attack
 
-50)	https://community.qualys.com/blogs/qualys-tech/2014/10/02/using-qualys-was-scan-to-detect-shellshock-vulnerability
+50) https://community.qualys.com/blogs/qualys-tech/2014/10/02/using-qualys-was-scan-to-detect-shellshock-vulnerability
 
 51) http://samiux.blogspot.com/2014/09/exploit-shellshock-proof-of-concept.html
 
@@ -110,7 +110,7 @@ Welcome to the Shellshock wiki!
 
 55) http://breizh-entropy.org/~nameless/random/posts/shellshock_shits_got_real/ 
 
-56)	http://www.tripwire.com/state-of-security/vulnerability-management/how-to-detect-the-shellshock-bash-bug-on-your-internal-network/ 
+56) http://www.tripwire.com/state-of-security/vulnerability-management/how-to-detect-the-shellshock-bash-bug-on-your-internal-network/ 
 
 57) https://github.com/gry/shellshock-scanner 
 
@@ -118,7 +118,7 @@ Welcome to the Shellshock wiki!
 
 59) http://businessinsights.bitdefender.com/shellshock-bashbug 
 
-60)	http://www.csoonline.com/article/2689216/vulnerabilities/apple-publishes-patch-for-shellshock-vulnerability.html
+60) http://www.csoonline.com/article/2689216/vulnerabilities/apple-publishes-patch-for-shellshock-vulnerability.html
 
 61) http://alblue.bandlem.com/2014/09/bash-remote-vulnerability.html
 
@@ -132,7 +132,7 @@ Welcome to the Shellshock wiki!
 
 66) http://blog.knownsec.com/2014/10/shellshock_response_profile_v4/#more-1559 
 
-67)	http://it.deepinmind.com/%E5%85%B6%E5%AE%83/2014/09/26/everything-you-need-to-know-about-shellshock.html 
+67) http://it.deepinmind.com/%E5%85%B6%E5%AE%83/2014/09/26/everything-you-need-to-know-about-shellshock.html 
 
 68) http://www.securitysift.com/the-search-for-shellshock/
 
