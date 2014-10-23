@@ -145,3 +145,5 @@ Welcome to the Shellshock wiki!
 72) http://pastebin.com/mG1grQwK 
 
 73) http://www.cyactive.com/shellshock-blasts-supermassive-black-hole-heart-cyber-space/ 
+
+74) http://blog.vpetkov.net/2014/09/24/bash-remote-exploit-vulnerability/
